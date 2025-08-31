@@ -8,11 +8,14 @@
                 { "id": "outlook", "name": "Outlook" },
                 { "id": "yahoo_mail", "name": "Yahoo Mail" },
                 { "id": "icloud_mail", "name": "iCloud Mail" }
+              
             ],
             "private_alternatives": [
                 { "id": "proton_mail", "name": "Proton Mail" },
                 { "id": "tuta_mail", "name": "Tuta Mail" },
                 { "id": "posteo", "name": "Posteo" }
+                { "id": "ikmail", "name": "IkMail" }
+
             ]
         },
         {
@@ -45,6 +48,7 @@
                 { "id": "startpage", "name": "Startpage" },
                 { "id": "searxng", "name": "SearXNG" },
                 { "id": "mojeek", "name": "Mojeek" }
+                { "id": "tor", "name": "Tor" }
             ]
         },
         {
@@ -92,6 +96,7 @@
                 { "id": "briar", "name": "Briar" },
                 { "id": "dino", "name": "Dino" },
                 { "id": "molly", "name": "Molly" }
+                { "id": "matrix", "name": "Matrix" }
             ]
         },
         {
@@ -130,6 +135,7 @@
                 { "id": "filen", "name": "Filen" },
                 { "id": "fileverse", "name": "Fileverse" },
                 { "id": "cryptomator", "name": "Cryptomator" }
+                { "id": "kdrive", "name": "Kdrive" }
             ]
         },
         {
@@ -147,6 +153,7 @@
                 { "id": "1password", "name": "1Password" },
                 { "id": "proton_pass", "name": "Proton Pass" },
                 { "id": "keepass", "name": "KeePass" }
+                
             ]
         },
         {
@@ -164,6 +171,7 @@
                 { "id": "proton_auth", "name": "Proton Auth" },
                 { "id": "bitwarden_auth", "name": "Bitwarden Auth" },
                 { "id": "yubico_auth", "name": "Yubico Authenticator" }
+                { "id": "freeOTP", "name": "FreeOTP" }
             ]
         },
         {
@@ -179,6 +187,7 @@
                 { "id": "tuta_calendar", "name": "Tuta Calendar" },
                 { "id": "nextcloud_calendar", "name": "Nextcloud Calendar" },
                 { "id": "radicale", "name": "Radicale" }
+                { "id": "infomaniak calendar", "name": "Infomaniak Calendar" }
             ]
         },
         {
@@ -247,6 +256,7 @@
                 { "id": "openhab", "name": "OpenHAB" },
                 { "id": "domoticz", "name": "Domoticz" },
                 { "id": "iobroker", "name": "ioBroker" }
+                 { "id": "shelly", "name": "Shelly" }
             ]
         },
         {
